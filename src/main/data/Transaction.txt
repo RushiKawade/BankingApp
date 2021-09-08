@@ -1,0 +1,18 @@
+Create Rakesh
+Create Aman
+Deposit 0 500
+Deposit 0 1000
+Deposit 0 100
+Deposit 0 60000
+Deposit 0 10000
+Deposit 0 10000
+Balance 0
+Withdraw 0 500
+Withdraw 0 26000
+Withdraw 0 1000
+Withdraw 0 1900
+Withdraw 0 1000
+Withdraw 0 5000
+Transfer 0 1 2000
+Transfer 0 1 500
+Transfer 0 1 30000
